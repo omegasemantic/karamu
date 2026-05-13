@@ -24,7 +24,13 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
-      - uses: actions/upload-pages-artifact@v3
+- name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+
+
 
   deploy:
     environment:
