@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Kia ora! Nau mai! Haere mai!'
 description: null
 image: null
 author: null
