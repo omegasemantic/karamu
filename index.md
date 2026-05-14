@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Kia ora! Nau mai! Haere mai!'
+landing-title: 'Kanuka'
 description: null
 image: null
 author: null
