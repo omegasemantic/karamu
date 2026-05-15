@@ -3,7 +3,7 @@ title: Aunty Leelu is our eel
 subtitle: by Anthea
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/kanuka"
+baseurl: "/karamu"
 url: "https://omegasemantic.github.io"
 author:
 street_address: Wainui Road
@@ -14,19 +14,6 @@ country: Aotearoa
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
