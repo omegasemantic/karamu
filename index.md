@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Karamū '
+landing-title: 'Kāmahi'
 description: null
 image: null
 author: null
