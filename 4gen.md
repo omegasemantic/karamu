@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
+title: Moana
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/surfdog.jpg
 nav-menu: true
 show_tile: true
 ---
