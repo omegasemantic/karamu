@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Kanuka'
+landing-title: 'Karamū '
 description: null
 image: null
 author: null
