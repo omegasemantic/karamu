@@ -25,22 +25,3 @@
 		}
 	}
 
-/* KĀMAHI CUSTOM STYLES */
-
-#main.alt .inner {
-    max-width: 768px;
-}
-
-@media (max-width: 768px) {
-    body {
-        font-size: 300%;
-        color:red;
-    }
-}
-
-@media (max-width: 480px) {
-    body {
-        font-size: 105%;
-    }
-}
-
