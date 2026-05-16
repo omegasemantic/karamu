@@ -86,18 +86,16 @@
     max-width: 768px;
 }
 
-@media (max-width: 768px) {
-    html {
+@media (max-width: 868px) {
+    body {
         font-size: 110%;
+        color:red;
     }
 }
 
 @media (max-width: 480px) {
     body {
         font-size: 105%;
-    }
-}
-@media (min-width: 769px) {
-    body {
+        color:yellow;
     }
 }
