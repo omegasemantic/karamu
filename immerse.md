@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moana
+title: Immerse
 description: Lorem ipsum dolor est
 image: assets/images/surfdog.jpg
 nav-menu: true

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Learn
+title: Discover
 description: Lorem ipsum dolor est
-image: assets/images/learn.jpg
+image: assets/images/Learning.jpg
 nav-menu: true
 show_tile: true
 ---
