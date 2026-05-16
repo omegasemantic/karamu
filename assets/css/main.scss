@@ -98,4 +98,8 @@
         font-size: 105%;
     }
 }
-
+@media (min-width: 769px) {
+    body {
+        background-color: pink;
+    }
+}
